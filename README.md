@@ -49,6 +49,7 @@ I focus on writing **efficient logic**, building **scalable APIs**, and improvin
   <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-2E7D32?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
@@ -69,9 +70,12 @@ I focus on writing **efficient logic**, building **scalable APIs**, and improvin
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
   <img src="https://img.shields.io/badge/MongoDB%20Compass-4DB33D?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-2E7D32?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/SQL%20Workbench-4479A1?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/Render-0468D7?style=for-the-badge&logo=render"/>
 </p>
+
 
 ---
 
