@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyank___saxena">
+  <a href="https://www.linkedin.com/in/priyank---saxena/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.instagram.com/priyank___saxena">
@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
   </a>
 </p>
+
 
 ---
 
