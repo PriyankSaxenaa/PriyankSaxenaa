@@ -27,7 +27,7 @@ I focus on writing **efficient logic**, building **scalable APIs**, and improvin
 - 🧠 Strong focus on **DSA & Competitive Programming**
 - 🏆 **500+ problems solved** across platforms
 - 🏁 **70+ competitive questions solved on Codeforces**
-- ⚡ Mindset: *Consistency > Motivation*
+- ⚡ Mindset: **“I believe in waking up late but running so fast that I can chase anyone.”**
 
 ---
 
