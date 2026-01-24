@@ -49,6 +49,15 @@ I focus on writing **efficient logic**, building **scalable APIs**, and improvin
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 </p>
+## 🛠 Tools I Use
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Compass-4DB33D?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/SQL%20Workbench-4479A1?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+</p>
 
 ---
 
