@@ -57,7 +57,7 @@ const currentFocus = {
 
 ## 🧠 DSA & Competitive Programming
 
-<img align="left" alt="DSA" width="370" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
+<img align="left" alt="DSA" width="350" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"/>
 
 ```
 Platform      Handle              Rating / Rank
