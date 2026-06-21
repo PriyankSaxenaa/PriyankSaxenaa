@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyank Saxena</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=B.Tech+Student;MERN+Stack+Developer;DSA+%26+Competitive+Programmer;500%2B+Problems+Solved" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Backend+Developer;MERN+Stack+Developer;DSA+%26+Competitive+Programmer;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
@@ -14,86 +14,152 @@
   <a href="https://codeforces.com/profile/priyank___saxena">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
   </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
 </p>
-
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech student passionate about **problem solving** and **backend development**.  
-I focus on writing **efficient logic**, building **scalable APIs**, and improving through **consistent practice**.
+🎓 Final Year **B.Tech CSE Student**
 
-- 🔥 Backend: **Node.js, Express.js, MongoDB**
-- 🌐 Web & Backend: **JavaScript**
-- 🧠 Strong focus on **DSA & Competitive Programming**
-- 🏆 **500+ problems solved** across platforms
-- 🏁 **70+ competitive questions solved on Codeforces**
-- ⚡ Mindset: **“I believe in waking up late but running so fast that I can chase anyone.”**
+💻 Passionate about **Backend Development**, **Problem Solving**, and **Scalable System Design**.
+
+I enjoy building practical applications and writing clean, maintainable code.
+
+* 🔥 Building **HireSync** — Campus & Off-campus Hiring Platform
+* ⚙️ Backend: **Node.js, Express.js, MongoDB**
+* 🌐 Strong in **JavaScript**
+* 🧠 Interested in **System Design & Backend Architecture**
+* 🏆 **500+ problems solved** across coding platforms
+* 🏁 Active **Competitive Programmer**
+* ⚡ Motto:
+
+> **"Build skills so strong that opportunities chase you."**
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
 ### 💻 Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-</p>
-
-### 🌐 Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MongoDB%20Atlas-2E7D32?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-</p>
-
-### 🎨 Design & CMS
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress"/>
 </p>
 
 ---
 
-## 🛠 Tools I Use
+### 🌐 Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RBAC-FF9800?style=for-the-badge"/>
+</p>
+
+---
+
+### 🗄 Database
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-2E7D32?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+</p>
+
+---
+
+### 📂 File Handling & Processing
+
+<p>
+  <img src="https://img.shields.io/badge/Multer-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XLSX-217346?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSV-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PDF_Parsing-E34F26?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Resume_Parsing-673AB7?style=for-the-badge"/>
+</p>
+
+---
+
+### 📧 Communication & Validation
+
+<p>
+  <img src="https://img.shields.io/badge/Nodemailer-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/express--validator-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Error_Handling-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Custom_Middleware-4CAF50?style=for-the-badge"/>
+</p>
+
+---
+
+### 🛠 Tools I Use
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-  <img src="https://img.shields.io/badge/MongoDB%20Compass-4DB33D?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MongoDB%20Atlas-2E7D32?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/SQL%20Workbench-4479A1?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Compass-4DB33D?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Render-0468D7?style=for-the-badge&logo=render"/>
 </p>
 
+---
+
+# 🚀 Featured Project
+
+## HireSync
+
+Campus & Off-campus Hiring Platform
+
+### Features
+
+✅ Multi-role Authentication (Candidate, Recruiter, TPO, Admin)
+
+✅ Job Posting & Applications
+
+✅ Resume Upload & Skill Extraction
+
+✅ Recommendation System
+
+✅ Excel / CSV Student Import
+
+✅ Campus Drives
+
+✅ Email Notifications
+
+✅ Analytics Dashboard
 
 ---
 
-## 🧩 Problem Solving Highlights
+# 🧩 Problem Solving Highlights
 
-- 🚀 **500+ problems solved** (DSA + CP)
-- 📅 **100+ active coding days**
-- 🧠 Strong grip on **core DSA concepts**
-- 🏁 **70+ competitive problems solved on Codeforces**
-- 🏆 Regular contest participant
+* 🚀 500+ Problems Solved
+* 🧠 Strong DSA Fundamentals
+* 🏁 Competitive Programming Enthusiast
+* 📅 Consistent Daily Coding
+* ⚡ Focused on Backend & System Design
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriyankSaxena01&show_icons=true&theme=radical" height="165"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankSaxena01&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PriyankSaxena01&theme=radical"/>
 </p>
 
 ---
