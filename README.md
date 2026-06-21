@@ -1,12 +1,35 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=10&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=6&section=header)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=99999&pause=99999&color=58A6FF&center=true&vCenter=true&width=700&lines=Priyank+Saxena" alt="Priyank Saxena" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=3FB950&center=true&vCenter=true&width=750&lines=Final+Year+B.Tech+CSE+%7C+Backend+Engineer;Building+HireSync+%F0%9F%9A%80+%E2%80%94+Unified+Recruitment+Platform;650%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+1700%2B+%E2%AD%90+%7C+Codeforces+Pupil+%F0%9F%8F%81;Node.js+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Socket.IO" />
+<div align="center">
 
-<br/>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗  ██╗██╗  ██╗   ║
+║   ██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗ ██║██║ ██╔╝   ║
+║   ██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗██║█████╔╝    ║
+║   ██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚████║██╔═██╗    ║
+║   ██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚███║██║  ██╗   ║
+║   ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚═╝  ║
+║                                                              ║
+║              S  A  X  E  N  A                                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=600&color=3FB950&center=true&vCenter=true&width=750&lines=Aspiring+Software+Development+Engineer+%F0%9F%9A%80;Backend+Engineer+%7C+Final+Year+B.Tech+CSE;Building+HireSync+%E2%80%94+Unified+Recruitment+Platform;650%2B+DSA+Problems+%7C+LeetCode+1700%2B+%E2%AD%90;Node.js+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Socket.IO" />
+
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyank---saxena/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanksaxenaa01/)
@@ -18,18 +41,24 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 👨‍💻 About Me
 
-- 🎓 **Final Year B.Tech CSE Student**
-- 🔥 Currently building **HireSync** — a platform solving real campus hiring chaos
-- 🧠 Core passion: **DSA & Competitive Programming**
-- 💻 Backend stack: **Node.js · Express · MongoDB · Redis**
-- ⭐ **1700+ LeetCode Rating** | **650+ Problems Solved**
-- 🏁 **Codeforces Pupil**
-- 🥈 **2nd Position** — Intercollege Ideathon
-- 📫 Reach me: **priyank0saxena@gmail.com**
+```js
+const priyank = {
+  name     : "Priyank Saxena",
+  role     : "Aspiring SDE | Backend Engineer",
+  college  : "Final Year B.Tech CSE",
+  building : "HireSync — Unified Recruitment Platform",
+  goal     : "SDE @ a top-tier tech company",
+  passion  : ["DSA", "Backend Engineering"],
+  leetcode : "1700+ Rating | 650+ Problems",
+  cp       : "Codeforces Pupil",
+  achieve  : "2nd Position — Intercollege Ideathon",
+  contact  : "priyank0saxena@gmail.com",
+};
+```
 
 > *"Build skills so strong that opportunities chase you."*
 
@@ -37,25 +66,38 @@
 
 ---
 
-<img align="left" alt="DSA" width="380" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-40eb-8a8f-758ff627cb56.gif"/>
+## 🎯 What I'm Focused On
+
+```js
+const currentFocus = {
+  dsa_cp    : "Advanced DSA, Competitive Programming & Problem Solving",
+  backend   : "System design, caching patterns, distributed systems",
+  building  : "HireSync → production deployment",
+  learning  : "Scalable architecture, microservices",
+  goal      : "World-class software engineer",
+};
+```
+
+---
+
+<img align="left" alt="DSA" width="360" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-40eb-8a8f-758ff627cb56.gif"/>
 
 ## 🧠 DSA & Competitive Programming
 
 ```
-Platform      Handle              Rank
-─────────────────────────────────────────
-LeetCode      priyanksaxenaa01    1700+  ⭐
-Codeforces    priyank___saxena    Pupil  🏁
-Total Solved  All Platforms       650+   🧩
+Platform      Handle                Rating / Rank
+──────────────────────────────────────────────────
+LeetCode      priyanksaxenaa01      1700+  ⭐
+Codeforces    priyank___saxena      Pupil  🏁
+Total Solved  All Platforms         650+   🧩
 ```
 
 **Topics Mastered**
-
 ```
-Arrays · Strings · Linked Lists · Trees
-Graphs · BFS/DFS · Dynamic Programming
-Greedy · Backtracking · Recursion
-Hashing · Two Pointers · Binary Search
+Arrays · Strings · Linked Lists · Trees · Graphs
+BFS/DFS · Dynamic Programming · Greedy
+Backtracking · Recursion · Hashing
+Two Pointers · Binary Search
 Segment Trees · Fenwick Trees · Heaps
 ```
 
@@ -111,13 +153,13 @@ Segment Trees · Fenwick Trees · Heaps
 
 ## 🚀 Featured Projects
 
-<img align="right" alt="Building" width="360" src="https://user-images.githubusercontent.com/74038190/218863487-e6c6f8f0-1dba-46ca-8d30-dbe6fe6f6c1d.gif"/>
+<img align="right" alt="Building" width="340" src="https://user-images.githubusercontent.com/74038190/218863487-e6c6f8f0-1dba-46ca-8d30-dbe6fe6f6c1d.gif"/>
 
 ### 🏢 HireSync — Unified Recruitment Platform
 
-> **Imagine this:** You're a final-year student.  
-> You have 12 browser tabs open — Internshala, LinkedIn, Naukri, your college portal, three WhatsApp groups, and a Gmail inbox with 847 unread emails.  
-> Somewhere in that chaos is your dream placement opportunity.  
+> **Imagine this:** You're a final-year student.
+> You have 12 browser tabs open — Internshala, LinkedIn, Naukri, your college portal, three WhatsApp groups, and a Gmail inbox with 847 unread emails.
+> Somewhere in that chaos is your dream placement opportunity.
 > **You'll probably never see it.**
 
 That's the problem HireSync solves.
@@ -151,7 +193,7 @@ That's the problem HireSync solves.
 
 ---
 
-<img align="left" alt="Music Code" width="320" src="https://user-images.githubusercontent.com/74038190/216655410-f0ea5f22-2c8c-4b1a-b778-34b0b2e94fe8.gif"/>
+<img align="left" alt="Music Code" width="300" src="https://user-images.githubusercontent.com/74038190/216655410-f0ea5f22-2c8c-4b1a-b778-34b0b2e94fe8.gif"/>
 
 ### 🎵 SoundWave — Music Streaming Backend
 
@@ -182,23 +224,49 @@ That's the problem HireSync solves.
 
 </div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PriyankSaxenaa&theme=dark&hide_border=true&background=0d1117&ring=3fb950&fire=58a6ff&currStreakLabel=3fb950)](https://git.io/streak-stats)
+
+</div>
+
 ---
 
-## 🤝 Let's Connect
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+![trophy](https://github-profile-trophy.vercel.app/?username=PriyankSaxenaa&theme=darkhub&no-frame=true&margin-w=10&column=6)
 
-*Actively looking for Backend Engineering Internships & Full-time SWE Roles*
+</div>
 
-<br/>
+---
+
+## 💼 Open to SDE Opportunities
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Actively seeking Backend Engineering Internships           ║
+║   and Full-time SDE Roles                                    ║
+║                                                              ║
+║   Strong in  →  Data Structure & Algorithms              ║
+║   Available  →  Immediate                                    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyank---saxena/)
 [![Email](https://img.shields.io/badge/priyank0saxena@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyank0saxena@gmail.com)
 [![LeetCode](https://img.shields.io/badge/priyanksaxenaa01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanksaxenaa01/)
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer&text=Let%27s+Build+Something+Amazing&fontSize=18&fontColor=3fb950&fontAlignY=70)
 
