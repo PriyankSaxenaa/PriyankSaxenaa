@@ -1,12 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=10&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Priyank%20Saxena&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Development%20Engineer&descAlignY=60&descSize=18&descColor=3fb950&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=42&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&lines=Priyank+Saxena" alt="Priyank Saxena" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=3FB950&center=true&vCenter=true&width=750&lines=Aspiring+SDE+%F0%9F%9A%80+%E2%80%94+Backend+Engineer;Building+HireSync+%F0%9F%9A%80+%E2%80%94+Unified+Recruitment+Platform;650%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+1700%2B+%E2%AD%90+%7C+Codeforces+Pupil+%F0%9F%8F%81;Node.js+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Socket.IO" />
+<div align="center">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=600&color=3FB950&center=true&vCenter=true&width=750&lines=Building+HireSync+%F0%9F%9A%80+%E2%80%94+Unified+Recruitment+Platform;650%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+1700%2B+%E2%AD%90+%7C+Codeforces+Pupil+%F0%9F%8F%81;Node.js+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Socket.IO;Open+to+SDE+Roles+%F0%9F%92%BC" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyank---saxena/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanksaxenaa01/)
@@ -40,8 +42,6 @@
 
 ## 🎯 What I'm Focused On
 
-<img align="left" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 ```js
 const currentFocus = {
   dsa_cp    : "Advanced graphs, DP optimization, CP contests",
@@ -51,8 +51,6 @@ const currentFocus = {
   goal      : "World-class software engineer",
 };
 ```
-
-<br clear="left"/>
 
 ---
 
