@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Priyank%20Saxena&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Development%20Engineer&descAlignY=60&descSize=18&descColor=3fb950&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Priyank%20Saxena&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Aspiring%20Software%20Development%20Engineer&descAlignY=65&descSize=16&descColor=3fb950&animation=fadeIn)
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=600&color=3FB950&center=true&vCenter=true&width=750&lines=Building+HireSync+%F0%9F%9A%80+%E2%80%94+Unified+Recruitment+Platform;650%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+1700%2B+%E2%AD%90+%7C+Codeforces+Pupil+%F0%9F%8F%81;Node.js+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Socket.IO;Open+to+SDE+Roles+%F0%9F%92%BC" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=600&color=3FB950&center=true&vCenter=true&width=750&lines=Building+HireSync+%F0%9F%9A%80+%E2%80%94+Unified+Recruitment+Platform;700%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+1700%2B+%E2%AD%90+%7C+Codeforces+1214+%F0%9F%8F%81;Node.js+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Socket.IO;Open+to+SDE+Roles+%F0%9F%92%BC" />
 
 <br/><br/>
 
@@ -20,19 +20,18 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 👨‍💻 About Me
 
 - 🎓 **Final Year B.Tech CSE Student**
 - 🚀 Aspiring **Software Development Engineer**
-- 🔥 Currently building **HireSync** — a platform solving real campus hiring chaos
-- 🧠 Core passion: **DSA & Competitive Programming**
+- 🔥 Currently building **HireSync** — a unified campus recruitment platform
 - 💻 Backend stack: **Node.js · Express · MongoDB · Redis**
-- ⭐ **1700+ LeetCode Rating** | **650+ Problems Solved**
-- 🏁 **Codeforces Pupil**
-- 🥈 **2nd Position** — Intercollege Ideathon
-- 📫 Reach me: **priyank0saxena@gmail.com**
+- ⭐ **LeetCode 1700+** | **700+ Problems Solved**
+- 🏁 **Codeforces 1214** (Pupil)
+- 🥈 **2nd Place** — Intercollege Ideathon
+- 📫 **priyank0saxena@gmail.com**
 
 > *"Build skills so strong that opportunities chase you."*
 
@@ -40,7 +39,7 @@
 
 ---
 
-## 🎯 What I'm Focused On
+## 🎯 Current Focus
 
 ```js
 const currentFocus = {
@@ -54,27 +53,19 @@ const currentFocus = {
 
 ---
 
-<img align="left" alt="DSA" width="380" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-40eb-8a8f-758ff627cb56.gif"/>
-
 ## 🧠 DSA & Competitive Programming
 
-```
-Platform      Handle              Rank
-─────────────────────────────────────────
-LeetCode      priyanksaxenaa01    1700+  ⭐
-Codeforces    priyank___saxena    Pupil  🏁
-Total Solved  All Platforms       650+   🧩
-```
-
-**Topics Mastered**
+<img align="left" alt="DSA" width="380" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-40eb-8a8f-758ff627cb56.gif"/>
 
 ```
-Arrays · Strings · Linked Lists · Trees
-Graphs · BFS/DFS · Dynamic Programming
-Greedy · Backtracking · Recursion
-Hashing · Two Pointers · Binary Search
-Segment Trees · Fenwick Trees · Heaps
+Platform      Handle              Rating / Rank
+─────────────────────────────────────────────────
+LeetCode      priyanksaxenaa01    1700+   ⭐
+Codeforces    priyank___saxena    1214    🏁
+Problems      All Platforms       700+    🧩
 ```
+
+<br/><br/><br/><br/>
 
 <br clear="left"/>
 
@@ -184,7 +175,7 @@ That's the problem HireSync solves.
 
 **Stack:** `Node.js` `Express` `MongoDB` `JWT` `ImageKit` `Multer`
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-3fb950?style=for-the-badge&logo=github&logoColor=black)](https://github.com/PriyankSaxenaa)
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-3fb950?style=for-the-badge&logo=github&logoColor=black)](https://github.com/PriyankSaxenaa/SoundWave)
 
 <br clear="left"/>
 
