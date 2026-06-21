@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Priyank%20Saxena&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Aspiring%20Software%20Development%20Engineer&descAlignY=65&descSize=16&descColor=3fb950&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Priyank%20Saxena&fontSize=52&fontColor=ffffff&fontAlignY=60&animation=fadeIn)
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Aspiring+Software+Development+Engineer" alt="SDE" />
 
 </div>
 
@@ -55,7 +57,7 @@ const currentFocus = {
 
 ## 🧠 DSA & Competitive Programming
 
-<img align="left" alt="DSA" width="380" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-40eb-8a8f-758ff627cb56.gif"/>
+<img align="left" alt="DSA" width="370" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
 
 ```
 Platform      Handle              Rating / Rank
