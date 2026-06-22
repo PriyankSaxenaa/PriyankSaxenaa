@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Priyank%20Saxena&fontSize=52&fontColor=ffffff&fontAlignY=60&animation=fadeIn)
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Aspiring+Software+Development+Engineer" alt="SDE" />
