@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFA116,100:1F8ACB&height=190&section=header&text=Priyank%20Saxena&fontSize=46&fontColor=ffffff&fontAlignY=48&rotate=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=210&section=header&text=PRIYANK%20SAXENA&fontSize=52&fontColor=FFA116&fontAlignY=44&desc=Competitive%20Programmer%20%20%C2%B7%20%20Software%20Engineer&descSize=17&descAlignY=63&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=FFA116&center=true&vCenter=true&width=700&lines=Competitive+Programmer+%7C+Software+Engineer;700%2B+problems+solved.+Still+counting.;I+solve+hard+problems+under+pressure." />
-
-<br/>
-
-**Final-year Computer Science student · Looking for Software Engineer roles**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=3000&pause=800&color=FFA116&center=true&vCenter=true&width=700&lines=900%2B+problems+solved.+Still+counting.;I+solve+hard+problems+under+pressure.;Final-year+CS+student%2C+open+to+SDE+roles." />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/priyank---saxena/"><img src="https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:priyank0saxena@gmail.com"><img src="https://img.shields.io/badge/Email-priyank0saxena@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/priyanksaxenaa01/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="mailto:priyank0saxena@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://myhiresync.vercel.app/"><img src="https://img.shields.io/badge/Live%20Project-HireSync-3fb950?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA116,100:1F8ACB&height=3&section=header" width="100%"/>
 
 </div>
 
 <br/>
-
----
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
@@ -31,13 +29,13 @@ It's the closest thing to a sport for programmers. It has taught me to:
 - **Think fast** under a ticking clock
 - **Stay calm** when the first three ideas fail
 - **Write code that works the first time** — in contests, there are no second chances
-- **Keep showing up** — 700+ problems solved, one at a time
+- **Keep showing up** — 900+ problems solved, one at a time
 
 Outside contests, I build web applications that real people use.
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F8ACB,100:FFA116&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -53,31 +51,31 @@ Outside contests, I build web applications that real people use.
 <tr>
 <td width="33%" align="center">
 
-### 🧩
-### **700+**
-**Problems Solved**
+# 🧩
+# **900+**
+### Problems Solved
 
 Across every platform.
-Consistency over years,
+Built up steadily over years —
 not a weekend sprint.
 
 </td>
 <td width="33%" align="center">
 
-### ⭐
-### **1700+**
-**LeetCode Rating**
+# ⭐
+# **1788**
+### LeetCode Rating
 
 Earned by solving 3–4 of 4
 problems in live 90-minute
-contests, repeatedly.
+contests, again and again.
 
 </td>
 <td width="33%" align="center">
 
-### 🏁
-### **Pupil**
-**Codeforces · 1214**
+# 🏁
+# **Pupil**
+### Codeforces · 1214
 
 The world's toughest contest
 platform. Actively competing
@@ -87,24 +85,18 @@ and climbing.
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
-<img width="46%" src="https://leetcard.jacoblin.cool/priyanksaxenaa01?theme=nord&font=Baloo&ext=contest" />
-<img width="46%" src="https://codeforces-readme-stats.vercel.app/api/card?username=priyank___saxena&theme=nord" />
+<br/>
 
-<br/><br/>
+### 🥈 2nd Place — Intercollege Ideathon
 
-> ### 🥈 2nd Place — Intercollege Ideathon
-> *Out of a full field of college teams*
+<br/>
 
 </div>
 
-<br/>
-
 <details align="center">
-<summary><b>🤔 Why does competitive programming matter for the job? (click)</b></summary>
+<summary><b>🤔 Why does competitive programming matter for the job? (click to open)</b></summary>
 
 <br/>
 
@@ -119,7 +111,7 @@ Companies like Google, Amazon, and Microsoft interview using exactly these probl
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA116,100:1F8ACB&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -131,7 +123,7 @@ Companies like Google, Amazon, and Microsoft interview using exactly these probl
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F8ACB,100:FFA116&height=3&section=header" width="100%"/>
 
 ## 💼 Two Things I've Built
 
@@ -139,13 +131,14 @@ Companies like Google, Amazon, and Microsoft interview using exactly these probl
 
 <img align="left" width="270" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/>
 
-### 🎓 HireSync
+### 🎓 HireSync &nbsp;<img src="https://img.shields.io/badge/LIVE-3fb950?style=flat-square"/>
 
 **The problem:** A final-year student hunting for a job has opportunities scattered across ten different websites, WhatsApp groups, and a flooded email inbox. Good chances get missed simply because nobody saw them.
 
 **What I built:** One website that pulls every opportunity into a single place. Students, recruiters, and college placement officers each get their own view. Everyone gets alerted the moment something changes — so nothing gets missed.
 
-<a href="https://github.com/PriyankSaxenaa/Hiresync-backend"><img src="https://img.shields.io/badge/See%20the%20project-FFA116?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://myhiresync.vercel.app/"><img src="https://img.shields.io/badge/Try%20it%20live-3fb950?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/PriyankSaxenaa/Hiresync-backend"><img src="https://img.shields.io/badge/View%20code-FFA116?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 <br clear="left"/>
 
@@ -159,11 +152,11 @@ Companies like Google, Amazon, and Microsoft interview using exactly these probl
 
 **What I built:** The engine behind a music streaming app — handling logins, artist and listener accounts with different permissions, song and album libraries, and image uploads. Built to the same standards a real company would expect.
 
-<a href="https://github.com/PriyankSaxenaa/SoundWave"><img src="https://img.shields.io/badge/See%20the%20project-1F8ACB?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/PriyankSaxenaa/SoundWave"><img src="https://img.shields.io/badge/View%20code-1F8ACB?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br clear="left"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA116,100:1F8ACB&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -174,15 +167,15 @@ Companies like Google, Amazon, and Microsoft interview using exactly these probl
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F8ACB,100:FFA116&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70"/>
+<br/>
 
 ## 📬 Let's Talk
 
-**I'm looking for a Software Engineer role and I reply to every message.**
+**I'm looking for a Software Engineer role — and I reply to every message.**
 
 <br/>
 
@@ -193,6 +186,8 @@ Companies like Google, Amazon, and Microsoft interview using exactly these probl
 
 ### *"Solve enough hard problems, and the hard problems stop being hard."*
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1F8ACB,100:FFA116&height=140&section=footer&rotate=-13" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=110&section=footer&text=Thanks%20for%20stopping%20by&fontSize=20&fontColor=FFA116&fontAlignY=68" width="100%"/>
 
 </div>
