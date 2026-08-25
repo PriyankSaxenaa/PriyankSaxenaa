@@ -1,254 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:3fb950&height=180&section=header&text=priyank.saxena&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=backend%20engineer%20%C2%B7%20status%3A%20200%20OK&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFA116,100:1F8ACB&height=190&section=header&text=Priyank%20Saxena&fontSize=46&fontColor=ffffff&fontAlignY=48&rotate=13" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=3FB950&center=true&vCenter=true&width=760&lines=%24+curl+-X+GET+api.priyank.dev%2Fv1%2Fprofile;%3E+200+OK+%E2%80%94+backend+engineer%2C+accepting+offers;%3E+700%2B+DSA+problems+%C2%B7+LeetCode+1700%2B+%C2%B7+CF+1214;%3E+shipping+HireSync+to+production+right+now" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=FFA116&center=true&vCenter=true&width=700&lines=Competitive+Programmer+%7C+Software+Engineer;700%2B+problems+solved.+Still+counting.;I+solve+hard+problems+under+pressure." />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/priyank---saxena/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="mailto:priyank0saxena@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://leetcode.com/u/priyanksaxenaa01/"><img src="https://img.shields.io/badge/LeetCode_1700+-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://github.com/PriyankSaxenaa"><img src="https://img.shields.io/badge/Codeforces_1214-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&labelColor=0d1117"/></a>
-<img src="https://komarev.com/ghpvc/?username=PriyankSaxenaa&style=flat-square&color=3fb950&label=visitors&labelColor=0d1117"/>
+**Final-year Computer Science student · Looking for Software Engineer roles**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/priyank---saxena/"><img src="https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:priyank0saxena@gmail.com"><img src="https://img.shields.io/badge/Email-priyank0saxena@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/priyanksaxenaa01/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 </div>
 
+<br/>
+
 ---
 
-## `GET /v1/profile`
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 👋 Hi, I'm Priyank
 
-```http
-HTTP/1.1 200 OK
-Content-Type: application/json
-X-Powered-By: Node.js, C++, and an unreasonable amount of chai
-Cache-Control: no-cache, always-shipping
-```
+I compete in **competitive programming** — timed online contests where thousands of people race to solve algorithm puzzles in 90 minutes or less.
 
-```json
-{
-  "name": "Priyank Saxena",
-  "role": "Backend Engineer (SDE)",
-  "education": "B.Tech CSE — Final Year",
-  "location": "India · open to relocate",
-  "primary_stack": ["Node.js", "Express", "MongoDB", "Redis", "Socket.IO"],
-  "algorithms": { "solved": "700+", "leetcode": 1700, "codeforces": 1214 },
-  "currently_deploying": "HireSync → production",
-  "availability": "IMMEDIATE",
-  "open_to": ["Backend Internships", "Full-time SDE"]
-}
-```
+It's the closest thing to a sport for programmers. It has taught me to:
+
+- **Think fast** under a ticking clock
+- **Stay calm** when the first three ideas fail
+- **Write code that works the first time** — in contests, there are no second chances
+- **Keep showing up** — 700+ problems solved, one at a time
+
+Outside contests, I build web applications that real people use.
 
 <br clear="right"/>
 
 ---
 
-## `GET /v1/architecture` — how I'm built
-
-> Not a skill list. This is the actual request path through everything I've shipped.
-
-```mermaid
-flowchart LR
-    C([Client]) --> LB{{Express Router}}
-    LB --> AUTH[Auth Layer<br/>JWT · Passport · bcrypt · RBAC]
-    AUTH --> CORE[Core Services<br/>Node.js · REST · MVC]
-    CORE --> CACHE[(Redis<br/>cache + sessions)]
-    CORE --> DB[(MongoDB Atlas<br/>Mongoose ODM)]
-    CORE --> SQL[(MySQL<br/>relational workloads)]
-    CORE --> RT[Socket.IO<br/>real-time events]
-    CORE --> MEDIA[Cloudinary / ImageKit<br/>Multer pipelines]
-    CORE --> MAIL[Nodemailer<br/>transactional mail]
-    RT --> C
-    CACHE -.hit.-> CORE
-    MEDIA --> CDN([CDN Delivery])
-
-    style AUTH fill:#1f6feb,stroke:#3fb950,color:#fff
-    style CORE fill:#161b22,stroke:#3fb950,color:#3fb950
-    style CACHE fill:#DC382D,stroke:#fff,color:#fff
-    style DB fill:#47A248,stroke:#fff,color:#fff
-```
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql,js,cpp,git,github,postman,vscode,linux&theme=dark" />
+# 🏆 The Contest Record
+
+*What these numbers mean, in plain English*
 
 </div>
 
----
-
-## `GET /v1/services` — deployed & running
+<br/>
 
 <table>
-<tr><th>Service</th><th>What it does</th><th>Status</th></tr>
 <tr>
-  <td><b>HireSync</b></td>
-  <td>Unified campus + off-campus recruitment platform</td>
-  <td><img src="https://img.shields.io/badge/shipping-3fb950?style=flat-square&labelColor=0d1117"/></td>
-</tr>
-<tr>
-  <td><b>SoundWave</b></td>
-  <td>Production-grade music streaming API backend</td>
-  <td><img src="https://img.shields.io/badge/live-1f6feb?style=flat-square&labelColor=0d1117"/></td>
+<td width="33%" align="center">
+
+### 🧩
+### **700+**
+**Problems Solved**
+
+Across every platform.
+Consistency over years,
+not a weekend sprint.
+
+</td>
+<td width="33%" align="center">
+
+### ⭐
+### **1700+**
+**LeetCode Rating**
+
+Earned by solving 3–4 of 4
+problems in live 90-minute
+contests, repeatedly.
+
+</td>
+<td width="33%" align="center">
+
+### 🏁
+### **Pupil**
+**Codeforces · 1214**
+
+The world's toughest contest
+platform. Actively competing
+and climbing.
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/218863487-e6c6f8f0-1dba-46ca-8d30-dbe6fe6f6c1d.gif"/>
+<div align="center">
 
-### 🏢 HireSync — Unified Recruitment Platform
+<img width="46%" src="https://leetcard.jacoblin.cool/priyanksaxenaa01?theme=nord&font=Baloo&ext=contest" />
+<img width="46%" src="https://codeforces-readme-stats.vercel.app/api/card?username=priyank___saxena&theme=nord" />
 
-> **Picture a final-year student.** 12 tabs open — Internshala, LinkedIn, Naukri, the college portal, three WhatsApp groups, and 847 unread emails.
-> Their dream placement is somewhere in that mess.
-> **They will never see it.**
+<br/><br/>
 
-```diff
-- Opportunities scattered across 10+ platforms
-- Campus drives buried in Gmail threads
-- Zero unified view of applications
-+ One platform. Every opportunity. Zero missed deadlines.
-```
+> ### 🥈 2nd Place — Intercollege Ideathon
+> *Out of a full field of college teams*
 
-<details>
-<summary><b>▸ Engineering breakdown</b> — click to expand</summary>
+</div>
 
 <br/>
 
-| Subsystem | Implementation |
-|---|---|
-| **Access control** | 4 roles (Candidate · Recruiter · TPO · Admin), every route gated by RBAC middleware |
-| **Resume pipeline** | PDF upload → parse → automatic skill extraction → indexed profile |
-| **Campus drives** | Structured drive lifecycle replacing ad-hoc Gmail threads |
-| **Bulk onboarding** | Excel/CSV ingestion so TPOs onboard entire batches in one shot |
-| **Real-time layer** | Socket.IO push notifications on deadlines and status changes |
-| **Matching** | Skill-vector job recommendations against the extracted resume profile |
-| **Analytics** | Drive metrics, funnel tracking, application-state dashboards |
-| **Performance** | Redis caching on hot read paths, indexed Mongo queries |
+<details align="center">
+<summary><b>🤔 Why does competitive programming matter for the job? (click)</b></summary>
 
-**Stack** — `Node.js` `Express` `MongoDB` `Redis` `Socket.IO` `JWT` `Cloudinary` `Nodemailer` `Multer`
+<br/>
+
+| In a contest, I... | On a team, that becomes... |
+|---|---|
+| Read a problem and find the trick in minutes | Understanding a new codebase or requirement quickly |
+| Choose the fastest approach, not the first one | Writing software that stays fast as users grow |
+| Debug with no hints and a clock running | Staying useful when production breaks at 2 AM |
+| Lose, review, and come back next week | Taking feedback without ego |
+
+Companies like Google, Amazon, and Microsoft interview using exactly these problems. I've been training for that interview for years.
 
 </details>
 
-<a href="https://github.com/PriyankSaxenaa/Hiresync-backend"><img src="https://img.shields.io/badge/Read_the_code-3fb950?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/></a>
+---
 
-<br clear="right"/>
+<div align="center">
+
+## 🛠️ What I Build With
+
+<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,mongodb,mysql,redis,git,github,vscode&theme=light&perline=10" />
+
+<sub>**C++** for contests · **JavaScript & Node.js** for building things · **MongoDB / MySQL** for storing data</sub>
+
+</div>
+
+---
+
+## 💼 Two Things I've Built
 
 <br/>
 
-<img align="left" width="300" src="https://user-images.githubusercontent.com/74038190/216655410-f0ea5f22-2c8c-4b1a-b778-34b0b2e94fe8.gif"/>
+<img align="left" width="270" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"/>
 
-### 🎵 SoundWave — Music Streaming Backend
+### 🎓 HireSync
 
-> A Spotify-inspired API built to prove one thing: clean, secure, scalable REST design under real constraints.
+**The problem:** A final-year student hunting for a job has opportunities scattered across ten different websites, WhatsApp groups, and a flooded email inbox. Good chances get missed simply because nobody saw them.
 
-<details>
-<summary><b>▸ Engineering breakdown</b> — click to expand</summary>
+**What I built:** One website that pulls every opportunity into a single place. Students, recruiters, and college placement officers each get their own view. Everyone gets alerted the moment something changes — so nothing gets missed.
+
+<a href="https://github.com/PriyankSaxenaa/Hiresync-backend"><img src="https://img.shields.io/badge/See%20the%20project-FFA116?style=for-the-badge&logo=github&logoColor=black"/></a>
+
+<br clear="left"/>
 
 <br/>
 
-| Subsystem | Implementation |
-|---|---|
-| **Auth** | Stateless JWT sessions, hashed credentials |
-| **Roles** | Artist vs User — separate permission surfaces on shared resources |
-| **APIs** | Full CRUD for Songs & Albums with pagination and filtering |
-| **Media** | ImageKit-backed uploads with Multer streaming and optimization |
-| **Design** | Strict MVC separation, RESTful contracts, predictable error shapes |
+<img align="left" width="270" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
 
-**Stack** — `Node.js` `Express` `MongoDB` `JWT` `ImageKit` `Multer`
+### 🎧 SoundWave
 
-</details>
+**The problem:** I wanted to understand how a service like Spotify actually works underneath the play button.
 
-<a href="https://github.com/PriyankSaxenaa/SoundWave"><img src="https://img.shields.io/badge/Read_the_code-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+**What I built:** The engine behind a music streaming app — handling logins, artist and listener accounts with different permissions, song and album libraries, and image uploads. Built to the same standards a real company would expect.
+
+<a href="https://github.com/PriyankSaxenaa/SoundWave"><img src="https://img.shields.io/badge/See%20the%20project-1F8ACB?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br clear="left"/>
 
 ---
 
-## `GET /v1/benchmarks` — problem solving
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"/>
-
-```
-┌───────────────────────────────────────────────────┐
-│  BENCHMARK RESULTS                    700+ RUNS   │
-├───────────────────────────────────────────────────┤
-│  LeetCode      priyanksaxenaa01        1700+  ⭐  │
-│  Codeforces    priyank___saxena     1214 Pupil 🏁 │
-│  Total solved  all platforms             700+  🧩 │
-├───────────────────────────────────────────────────┤
-│  Strongest:   Graphs · DP · Binary Search         │
-│  Drilling:    DP optimization · Advanced graphs   │
-│  Language:    C++  (fallback: JavaScript)         │
-└───────────────────────────────────────────────────┘
-```
-
-🥈 **2nd Place** — Intercollege Ideathon
-
-<br clear="right"/>
-
----
-
-## `GET /v1/changelog`
-
-```
-v3.0  ▸  HireSync — 4-role platform, real-time layer, Redis caching
-v2.5  ▸  Crossed 700 DSA problems · LeetCode 1700+
-v2.0  ▸  SoundWave — first production-grade API backend
-v1.5  ▸  Codeforces Pupil · 2nd place, Intercollege Ideathon
-v1.0  ▸  First line of C++. Never stopped.
-```
-
-<details>
-<summary><b>▸ /v1/incidents</b> — things that broke, and what I learned</summary>
-
-<br/>
-
-| Incident | Root cause | Fix | Takeaway |
-|---|---|---|---|
-| Slow job feed | Unindexed Mongo queries on every request | Compound indexes + Redis cache layer | Measure before optimizing — the DB tells you where it hurts |
-| Notification storms | Socket events emitted per-write, unbatched | Batched emits + room-scoped broadcasts | Real-time ≠ every-time |
-| Resume parse failures | Assumed uniform PDF structure | Defensive parsing + graceful fallbacks | User input is always weirder than your test file |
-
-*Real engineering is mostly debugging. I'd rather show that than hide it.*
-
-</details>
-
----
-
-## `GET /v1/roadmap`
-
-```mermaid
-gantt
-    title Now → Next
-    dateFormat YYYY-MM
-    axisFormat %b
-    section Ship
-    HireSync production deploy      :active, 2026-08, 2m
-    section Depth
-    System design · distributed sys :active, 2026-08, 4m
-    Advanced graphs · DP optimization :2026-09, 3m
-    section Goal
-    Full-time SDE                   :crit, 2026-11, 3m
-```
-
----
-
 <div align="center">
 
-## `GET /v1/metrics`
+## 📈 Coding Activity
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PriyankSaxenaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=1f6feb&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=PriyankSaxenaa&hide_border=true&background=0d1117&stroke=161b22&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=8b949e"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankSaxenaa&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8"/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankSaxenaa&bg_color=0d1117&color=3fb950&line=1f6feb&point=ffffff&area=true&hide_border=true"/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=PriyankSaxenaa&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-
-<img width="98%" src="https://raw.githubusercontent.com/PriyankSaxenaa/PriyankSaxenaa/output/snake.svg" alt="contribution snake"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=PriyankSaxenaa&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img width="47%" src="https://streak-stats.demolab.com?user=PriyankSaxenaa&hide_border=true&theme=nord"/>
 
 </div>
 
@@ -256,48 +178,21 @@ gantt
 
 <div align="center">
 
-## `POST /v1/hire`
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="70"/>
 
-</div>
+## 📬 Let's Talk
 
-```js
-const evaluate = (role) => {
-  const wantsBackend = role.stack.some(t =>
-    ["node", "express", "mongodb", "redis", "system-design"].includes(t)
-  );
-
-  if (wantsBackend && role.type === "SDE") {
-    return {
-      status: 200,
-      response: "Let's talk. I ship, I debug, and I don't need hand-holding.",
-      responseTime: "< 6 hours",
-      contact: "priyank0saxena@gmail.com"
-    };
-  }
-
-  return { status: 200, response: "Still interested — I learn fast." };
-};
-```
-
-<div align="center">
-
-| Endpoint | SLA | Status |
-|---|---|---|
-| Recruiter email | `< 6h` | 🟢 |
-| Take-home assignment | `< 48h` | 🟢 |
-| Notice period | `0 days` | 🟢 |
+**I'm looking for a Software Engineer role and I reply to every message.**
 
 <br/>
 
-<a href="https://www.linkedin.com/in/priyank---saxena/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="mailto:priyank0saxena@gmail.com"><img src="https://img.shields.io/badge/priyank0saxena@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/priyank---saxena/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:priyank0saxena@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70"/>
+### *"Solve enough hard problems, and the hard problems stop being hard."*
 
-> ### *"Build skills so strong that opportunities chase you."*
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:3fb950,50:1f6feb,100:0d1117&height=140&section=footer&text=connection%20closed%20%C2%B7%20200%20OK&fontSize=18&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1F8ACB,100:FFA116&height=140&section=footer&rotate=-13" width="100%"/>
 
 </div>
