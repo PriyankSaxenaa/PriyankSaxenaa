@@ -1,204 +1,303 @@
 <div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Priyank%20Saxena&fontSize=52&fontColor=ffffff&fontAlignY=60&animation=fadeIn)
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Aspiring+Software+Development+Engineer" alt="SDE" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:3fb950&height=180&section=header&text=priyank.saxena&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=backend%20engineer%20%C2%B7%20status%3A%20200%20OK&descSize=16&descAlignY=62&animation=fadeIn" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=700&color=3FB950&center=true&vCenter=true&width=760&lines=%24+curl+-X+GET+api.priyank.dev%2Fv1%2Fprofile;%3E+200+OK+%E2%80%94+backend+engineer%2C+accepting+offers;%3E+700%2B+DSA+problems+%C2%B7+LeetCode+1700%2B+%C2%B7+CF+1214;%3E+shipping+HireSync+to+production+right+now" />
 
-<div align="center">
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=600&color=3FB950&center=true&vCenter=true&width=750&lines=Building+HireSync+%F0%9F%9A%80+%E2%80%94+Unified+Recruitment+Platform;700%2B+DSA+Problems+Solved+%F0%9F%A7%A0;LeetCode+1700%2B+%E2%AD%90+%7C+Codeforces+1214+%F0%9F%8F%81;Node.js+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Socket.IO;Open+to+SDE+Roles+%F0%9F%92%BC" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyank---saxena/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanksaxenaa01/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyank0saxena@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyankSaxenaa)
-![Profile Views](https://komarev.com/ghpvc/?username=PriyankSaxenaa&style=for-the-badge&color=3fb950&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/priyank---saxena/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:priyank0saxena@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://leetcode.com/u/priyanksaxenaa01/"><img src="https://img.shields.io/badge/LeetCode_1700+-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/PriyankSaxenaa"><img src="https://img.shields.io/badge/Codeforces_1214-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&labelColor=0d1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=PriyankSaxenaa&style=flat-square&color=3fb950&label=visitors&labelColor=0d1117"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## `GET /v1/profile`
 
-## 👨‍💻 About Me
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-- 🎓 **Final Year B.Tech CSE Student**
-- 🚀 Aspiring **Software Development Engineer**
-- 🔥 Currently building **HireSync** — a unified campus recruitment platform
-- 💻 Backend stack: **Node.js · Express · MongoDB · Redis**
-- ⭐ **LeetCode 1700+** | **700+ Problems Solved**
-- 🏁 **Codeforces 1214** (Pupil)
-- 🥈 **2nd Place** — Intercollege Ideathon
-- 📫 **priyank0saxena@gmail.com**
+```http
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Powered-By: Node.js, C++, and an unreasonable amount of chai
+Cache-Control: no-cache, always-shipping
+```
 
-> *"Build skills so strong that opportunities chase you."*
+```json
+{
+  "name": "Priyank Saxena",
+  "role": "Backend Engineer (SDE)",
+  "education": "B.Tech CSE — Final Year",
+  "location": "India · open to relocate",
+  "primary_stack": ["Node.js", "Express", "MongoDB", "Redis", "Socket.IO"],
+  "algorithms": { "solved": "700+", "leetcode": 1700, "codeforces": 1214 },
+  "currently_deploying": "HireSync → production",
+  "availability": "IMMEDIATE",
+  "open_to": ["Backend Internships", "Full-time SDE"]
+}
+```
 
 <br clear="right"/>
 
 ---
 
-## 🎯 Current Focus
+## `GET /v1/architecture` — how I'm built
 
-```js
-const currentFocus = {
-  dsa_cp    : "Advanced graphs, DP optimization, CP contests",
-  backend   : "System design, caching patterns, distributed systems",
-  building  : "HireSync → production deployment",
-  learning  : "Scalable architecture, microservices",
-  goal      : "World-class software engineer",
-};
+> Not a skill list. This is the actual request path through everything I've shipped.
+
+```mermaid
+flowchart LR
+    C([Client]) --> LB{{Express Router}}
+    LB --> AUTH[Auth Layer<br/>JWT · Passport · bcrypt · RBAC]
+    AUTH --> CORE[Core Services<br/>Node.js · REST · MVC]
+    CORE --> CACHE[(Redis<br/>cache + sessions)]
+    CORE --> DB[(MongoDB Atlas<br/>Mongoose ODM)]
+    CORE --> SQL[(MySQL<br/>relational workloads)]
+    CORE --> RT[Socket.IO<br/>real-time events]
+    CORE --> MEDIA[Cloudinary / ImageKit<br/>Multer pipelines]
+    CORE --> MAIL[Nodemailer<br/>transactional mail]
+    RT --> C
+    CACHE -.hit.-> CORE
+    MEDIA --> CDN([CDN Delivery])
+
+    style AUTH fill:#1f6feb,stroke:#3fb950,color:#fff
+    style CORE fill:#161b22,stroke:#3fb950,color:#3fb950
+    style CACHE fill:#DC382D,stroke:#fff,color:#fff
+    style DB fill:#47A248,stroke:#fff,color:#fff
 ```
-
----
-
-## 🧠 DSA & Competitive Programming
-
-<img align="left" alt="DSA" width="350" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"/>
-
-```
-Platform      Handle              Rating / Rank
-─────────────────────────────────────────────────
-LeetCode      priyanksaxenaa01    1700+   ⭐
-Codeforces    priyank___saxena    1214    🏁
-Problems      All Platforms       700+    🧩
-```
-
-<br/><br/><br/><br/>
-
-<br clear="left"/>
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-**⚡ Core Stack**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**🔐 Auth & Security**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge)
-![bcryptjs](https://img.shields.io/badge/bcryptjs-FF4154?style=for-the-badge)
-![RBAC](https://img.shields.io/badge/RBAC-FF9800?style=for-the-badge)
-
-**🗄️ Databases & Caching**
-
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
-
-**⚙️ Real-time & Infra**
-
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-0F7BFF?style=for-the-badge)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-0A66C2?style=for-the-badge)
-![Multer](https://img.shields.io/badge/Multer-FF9800?style=for-the-badge)
-![Render](https://img.shields.io/badge/Render-0468D7?style=for-the-badge&logo=render&logoColor=white)
-
-**🧰 Dev Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql,js,cpp,git,github,postman,vscode,linux&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `GET /v1/services` — deployed & running
 
-<img align="right" alt="Building" width="360" src="https://user-images.githubusercontent.com/74038190/218863487-e6c6f8f0-1dba-46ca-8d30-dbe6fe6f6c1d.gif"/>
+<table>
+<tr><th>Service</th><th>What it does</th><th>Status</th></tr>
+<tr>
+  <td><b>HireSync</b></td>
+  <td>Unified campus + off-campus recruitment platform</td>
+  <td><img src="https://img.shields.io/badge/shipping-3fb950?style=flat-square&labelColor=0d1117"/></td>
+</tr>
+<tr>
+  <td><b>SoundWave</b></td>
+  <td>Production-grade music streaming API backend</td>
+  <td><img src="https://img.shields.io/badge/live-1f6feb?style=flat-square&labelColor=0d1117"/></td>
+</tr>
+</table>
+
+<br/>
+
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/218863487-e6c6f8f0-1dba-46ca-8d30-dbe6fe6f6c1d.gif"/>
 
 ### 🏢 HireSync — Unified Recruitment Platform
 
-> **Imagine this:** You're a final-year student.
-> You have 12 browser tabs open — Internshala, LinkedIn, Naukri, your college portal, three WhatsApp groups, and a Gmail inbox with 847 unread emails.
-> Somewhere in that chaos is your dream placement opportunity.
-> **You'll probably never see it.**
+> **Picture a final-year student.** 12 tabs open — Internshala, LinkedIn, Naukri, the college portal, three WhatsApp groups, and 847 unread emails.
+> Their dream placement is somewhere in that mess.
+> **They will never see it.**
 
-That's the problem HireSync solves.
-
-```
-❌  Off-campus opportunities scattered across 10+ platforms
-❌  On-campus drives buried inside Gmail — unseen, missed
-❌  No unified view of what's available, what you applied to
+```diff
+- Opportunities scattered across 10+ platforms
+- Campus drives buried in Gmail threads
+- Zero unified view of applications
++ One platform. Every opportunity. Zero missed deadlines.
 ```
 
-```
-✅  One platform. Every opportunity. Zero missed updates.
-```
+<details>
+<summary><b>▸ Engineering breakdown</b> — click to expand</summary>
 
-```
-👥  4-role system      →  Candidate, Recruiter, TPO, Admin
-📄  Resume upload      →  Auto skill extraction from PDF
-🏫  Campus drives      →  Replaces chaotic placement Gmail threads
-📋  Bulk import        →  Excel/CSV student onboarding for TPOs
-🔔  Real-time notifs   →  Socket.IO — never miss a deadline again
-💡  Recommendations    →  Jobs matched to your actual skill set
-📊  Analytics          →  Drive metrics and application tracking
-🔐  RBAC              →  Every route locked by role
-```
+<br/>
 
-**Stack:** `Node.js` `Express` `MongoDB` `Redis` `Socket.IO` `JWT` `Cloudinary` `Nodemailer` `Multer`
+| Subsystem | Implementation |
+|---|---|
+| **Access control** | 4 roles (Candidate · Recruiter · TPO · Admin), every route gated by RBAC middleware |
+| **Resume pipeline** | PDF upload → parse → automatic skill extraction → indexed profile |
+| **Campus drives** | Structured drive lifecycle replacing ad-hoc Gmail threads |
+| **Bulk onboarding** | Excel/CSV ingestion so TPOs onboard entire batches in one shot |
+| **Real-time layer** | Socket.IO push notifications on deadlines and status changes |
+| **Matching** | Skill-vector job recommendations against the extracted resume profile |
+| **Analytics** | Drive metrics, funnel tracking, application-state dashboards |
+| **Performance** | Redis caching on hot read paths, indexed Mongo queries |
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-3fb950?style=for-the-badge&logo=github&logoColor=black)](https://github.com/PriyankSaxenaa/Hiresync-backend)
+**Stack** — `Node.js` `Express` `MongoDB` `Redis` `Socket.IO` `JWT` `Cloudinary` `Nodemailer` `Multer`
+
+</details>
+
+<a href="https://github.com/PriyankSaxenaa/Hiresync-backend"><img src="https://img.shields.io/badge/Read_the_code-3fb950?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/></a>
 
 <br clear="right"/>
 
----
+<br/>
 
-<img align="left" alt="Music Code" width="320" src="https://user-images.githubusercontent.com/74038190/216655410-f0ea5f22-2c8c-4b1a-b778-34b0b2e94fe8.gif"/>
+<img align="left" width="300" src="https://user-images.githubusercontent.com/74038190/216655410-f0ea5f22-2c8c-4b1a-b778-34b0b2e94fe8.gif"/>
 
 ### 🎵 SoundWave — Music Streaming Backend
 
-> A clean, production-grade API backend inspired by Spotify — built to demonstrate role-based access, secure media delivery, and scalable REST design.
+> A Spotify-inspired API built to prove one thing: clean, secure, scalable REST design under real constraints.
 
-```
-🔐  JWT Auth        →  Secure, stateless sessions
-🎤  Dual roles      →  Artist & User with separate permissions
-🎵  Full CRUD       →  Songs & Albums APIs with pagination
-🖼️  Media           →  ImageKit-powered optimized uploads
-📐  Architecture    →  MVC, REST, clean codebase
-```
+<details>
+<summary><b>▸ Engineering breakdown</b> — click to expand</summary>
 
-**Stack:** `Node.js` `Express` `MongoDB` `JWT` `ImageKit` `Multer`
+<br/>
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-3fb950?style=for-the-badge&logo=github&logoColor=black)](https://github.com/PriyankSaxenaa/SoundWave)
+| Subsystem | Implementation |
+|---|---|
+| **Auth** | Stateless JWT sessions, hashed credentials |
+| **Roles** | Artist vs User — separate permission surfaces on shared resources |
+| **APIs** | Full CRUD for Songs & Albums with pagination and filtering |
+| **Media** | ImageKit-backed uploads with Multer streaming and optimization |
+| **Design** | Strict MVC separation, RESTful contracts, predictable error shapes |
+
+**Stack** — `Node.js` `Express` `MongoDB` `JWT` `ImageKit` `Multer`
+
+</details>
+
+<a href="https://github.com/PriyankSaxenaa/SoundWave"><img src="https://img.shields.io/badge/Read_the_code-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 
 <br clear="left"/>
 
 ---
 
-## 🤝 Let's Connect
+## `GET /v1/benchmarks` — problem solving
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"/>
+
+```
+┌───────────────────────────────────────────────────┐
+│  BENCHMARK RESULTS                    700+ RUNS   │
+├───────────────────────────────────────────────────┤
+│  LeetCode      priyanksaxenaa01        1700+  ⭐  │
+│  Codeforces    priyank___saxena     1214 Pupil 🏁 │
+│  Total solved  all platforms             700+  🧩 │
+├───────────────────────────────────────────────────┤
+│  Strongest:   Graphs · DP · Binary Search         │
+│  Drilling:    DP optimization · Advanced graphs   │
+│  Language:    C++  (fallback: JavaScript)         │
+└───────────────────────────────────────────────────┘
+```
+
+🥈 **2nd Place** — Intercollege Ideathon
+
+<br clear="right"/>
+
+---
+
+## `GET /v1/changelog`
+
+```
+v3.0  ▸  HireSync — 4-role platform, real-time layer, Redis caching
+v2.5  ▸  Crossed 700 DSA problems · LeetCode 1700+
+v2.0  ▸  SoundWave — first production-grade API backend
+v1.5  ▸  Codeforces Pupil · 2nd place, Intercollege Ideathon
+v1.0  ▸  First line of C++. Never stopped.
+```
+
+<details>
+<summary><b>▸ /v1/incidents</b> — things that broke, and what I learned</summary>
+
+<br/>
+
+| Incident | Root cause | Fix | Takeaway |
+|---|---|---|---|
+| Slow job feed | Unindexed Mongo queries on every request | Compound indexes + Redis cache layer | Measure before optimizing — the DB tells you where it hurts |
+| Notification storms | Socket events emitted per-write, unbatched | Batched emits + room-scoped broadcasts | Real-time ≠ every-time |
+| Resume parse failures | Assumed uniform PDF structure | Defensive parsing + graceful fallbacks | User input is always weirder than your test file |
+
+*Real engineering is mostly debugging. I'd rather show that than hide it.*
+
+</details>
+
+---
+
+## `GET /v1/roadmap`
+
+```mermaid
+gantt
+    title Now → Next
+    dateFormat YYYY-MM
+    axisFormat %b
+    section Ship
+    HireSync production deploy      :active, 2026-08, 2m
+    section Depth
+    System design · distributed sys :active, 2026-08, 4m
+    Advanced graphs · DP optimization :2026-09, 3m
+    section Goal
+    Full-time SDE                   :crit, 2026-11, 3m
+```
+
+---
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+## `GET /v1/metrics`
 
-*Actively looking for Backend Engineering Internships & Full-time SDE Roles*
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PriyankSaxenaa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=1f6feb&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=PriyankSaxenaa&hide_border=true&background=0d1117&stroke=161b22&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=8b949e"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankSaxenaa&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankSaxenaa&bg_color=0d1117&color=3fb950&line=1f6feb&point=ffffff&area=true&hide_border=true"/>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=PriyankSaxenaa&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+
+<img width="98%" src="https://raw.githubusercontent.com/PriyankSaxenaa/PriyankSaxenaa/output/snake.svg" alt="contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `POST /v1/hire`
+
+</div>
+
+```js
+const evaluate = (role) => {
+  const wantsBackend = role.stack.some(t =>
+    ["node", "express", "mongodb", "redis", "system-design"].includes(t)
+  );
+
+  if (wantsBackend && role.type === "SDE") {
+    return {
+      status: 200,
+      response: "Let's talk. I ship, I debug, and I don't need hand-holding.",
+      responseTime: "< 6 hours",
+      contact: "priyank0saxena@gmail.com"
+    };
+  }
+
+  return { status: 200, response: "Still interested — I learn fast." };
+};
+```
+
+<div align="center">
+
+| Endpoint | SLA | Status |
+|---|---|---|
+| Recruiter email | `< 6h` | 🟢 |
+| Take-home assignment | `< 48h` | 🟢 |
+| Notice period | `0 days` | 🟢 |
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyank---saxena/)
-[![Email](https://img.shields.io/badge/priyank0saxena@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyank0saxena@gmail.com)
-[![LeetCode](https://img.shields.io/badge/priyanksaxenaa01-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanksaxenaa01/)
+<a href="https://www.linkedin.com/in/priyank---saxena/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:priyank0saxena@gmail.com"><img src="https://img.shields.io/badge/priyank0saxena@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 
-<br/>
+<br/><br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer&text=Let%27s+Build+Something+Amazing&fontSize=18&fontColor=3fb950&fontAlignY=70)
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70"/>
+
+> ### *"Build skills so strong that opportunities chase you."*
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:3fb950,50:1f6feb,100:0d1117&height=140&section=footer&text=connection%20closed%20%C2%B7%20200%20OK&fontSize=18&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%"/>
 
 </div>
