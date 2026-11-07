@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3d,50:1F8ACB,100:FFA116&height=200&section=header&text=Priyank%20Saxena&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Competitive%20Programmer%20%C2%B7%20ICPC%20Regionalist&descSize=17&descAlignY=60" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=3000&pause=900&color=1F8ACB&center=true&vCenter=true&width=760&height=40&lines=Microservices+%C2%B7+Multi-Agent+AI+%C2%B7+AWS+CI%2FCD;900%2B+DSA+problems+solved;Final-year+CS+student.+Open+to+SDE+roles." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=3000&pause=900&color=1F8ACB&center=true&vCenter=true&width=760&height=40&lines=Microservices+%C2%B7+Multi-Agent+AI+%C2%B7+AWS+CI%2FCD;1000%2B+DSA+problems+solved;Final-year+CS+student.+Open+to+SDE+roles." />
 
 <p>
 <img src="https://img.shields.io/badge/ICPC-Asia%20West%20Regionalist%202026-C8102E?style=for-the-badge"/>
@@ -70,6 +70,7 @@
 
 <p>
 <a href="https://d2nd94qbszkbeq.cloudfront.net/"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-1F8ACB?style=for-the-badge"/></a>
+<a href="https://github.com/PriyankSaxenaa/Gyaani-AI"><img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -100,7 +101,7 @@
 ## 📈 GitHub Activity
 
 <p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?900username=PriyankSaxenaa&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyankSaxenaa&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true"/>
 <img height="170" src="https://streak-stats.demolab.com?user=PriyankSaxenaa&hide_border=true&theme=nord"/>
 </p>
 
