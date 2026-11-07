@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/ICPC-Asia%20West%20Regionalist%202026-C8102E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LeetCode-1788-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codeforces-Pupil%201312-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-900%2B-3fb950?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-1000%2B-3fb950?style=for-the-badge"/>
 </p>
 
 <p><sub>B.Tech CSE (Data Science), GLBITM · Batch 2027 &nbsp;|&nbsp; I design and ship backend systems end to end and compete in algorithmic contests.</sub></p>
@@ -23,7 +23,7 @@
 
 | 🌏 ICPC | ⭐ LeetCode | 🏁 Codeforces | 🧩 Solved |
 |:---:|:---:|:---:|:---:|
-| **Regionalist** | **1788** | **1312** | **900+** |
+| **Regionalist** | **1788** | **1312** | **1000+** |
 | Asia West Amritapuri · Jan 2027 | Peak rating | Pupil | LC · GFG · CF |
 
 <sub>🥇 Top 2 in my institute on the CP-31 sheet &nbsp;·&nbsp; 🥈 Runner-Up, Intercollege Ideathon (team lead of 5)</sub>
@@ -64,20 +64,6 @@
 
 **What I built:** One AI assistant that understands what you're asking and hands it to the right specialist agent. Drop in a PDF and it answers strictly from that document. Ask for code, search, or a generated document and a different agent picks it up. Underneath, it's split into independent services for login, chat, billing, and the AI agents, with credits, payments, and fair-use limits built in. Every change I push is built, packaged, and deployed to the cloud automatically.
 
-```mermaid
-flowchart LR
-    U([User]) --> CF[CloudFront + S3<br/>Frontend]
-    CF --> GW[API Gateway]
-    GW --> AU[Auth]
-    GW --> CH[Chat]
-    GW --> BL[Billing]
-    CH --> AG[Agent Service<br/>LangGraph router]
-    AG --> A1[Chat · Search · Code<br/>PDF Q&A · Vision · Docs]
-    AG --> VDB[(Qdrant)]
-    GW --> RD[(Redis)]
-    CH --> DB[(MongoDB)]
-```
-
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
@@ -114,7 +100,7 @@ flowchart LR
 ## 📈 GitHub Activity
 
 <p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyankSaxenaa&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?900username=PriyankSaxenaa&show_icons=true&hide_border=true&theme=nord&include_all_commits=true&count_private=true"/>
 <img height="170" src="https://streak-stats.demolab.com?user=PriyankSaxenaa&hide_border=true&theme=nord"/>
 </p>
 
